@@ -10,4 +10,3 @@ C:\Users\rportal\Documents\GitHub\MyMath\MyMath\bin\Debug\MyMath.pdb
 C:\Users\rportal\Documents\GitHub\MyMath\MyMath\obj\Debug\MyPrograms.csproj.CoreCompileInputs.cache
 C:\Users\rportal\Documents\GitHub\MyMath\MyMath\obj\Debug\MyMath.exe
 C:\Users\rportal\Documents\GitHub\MyMath\MyMath\obj\Debug\MyMath.pdb
-C:\Users\rportal\Documents\GitHub\MyMath\MyMath\obj\Debug\MyPrograms.csprojAssemblyReference.cache

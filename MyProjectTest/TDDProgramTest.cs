@@ -62,5 +62,16 @@ namespace MyProjectTest
 
         }
 
+        [TestMethod]
+        public void TestFizzBuzz()
+        {
+            MyPrograms.TTDPrograms _TDDProgramTest = new TTDPrograms();
+            string expectedResult = "Fizz";
+            string expectedValue = _TDDProgramTest.GetValueFizzBuzz(12);
+            Assert.AreEqual(expectedResult, expectedValue);
+
+        }
+
+
     }
 }
