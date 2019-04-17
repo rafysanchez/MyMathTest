@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace MyPrograms
 {
-    class TTDPrograms
+   public class TTDPrograms
     {
-        public int Power(int b, int exp)
+        public double Power(int b, int exp)
         {
-            int result = 0;
+            double result = Math.Pow(b, exp);
 
             // our code
 
@@ -19,9 +19,15 @@ namespace MyPrograms
 
         public int Smallest(int[] arr)
         {
-            int result = 0;
+            int result = arr[0];
 
-            // our code
+            for (int i = 0; i < arr.Length; i++)
+            {
+                if (result > arr[i])
+                {
+                    result = arr[i];
+                }
+            }
 
             return result;
         }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyPrograms
 {
-    class BasicOperations
+   public class BasicOperations
     {
         public int Add(int a, int b)
         {

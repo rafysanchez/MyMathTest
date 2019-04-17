@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyPrograms
 {
-    class ClassicPrograms
+   public  class ClassicPrograms
     {
         public bool IsPrime(int a)
         {
